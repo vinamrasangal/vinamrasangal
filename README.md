@@ -8,6 +8,8 @@
 
 - 👯 I’m looking for full time opportunities **as a Full Stack Developer**
 
+- 📝 I will start writing **tech based content on GeeksForGeeks.**
+
 - 📫 Reach me at **vinamrasangal1906@gmail.com**
 
 - 📄 Know about my experiences [https://tinyurl.com/mv724mdb](https://tinyurl.com/mv724mdb)
